@@ -1,0 +1,16 @@
+.purple{
+    background-color: blueviolet;
+    color: white;
+    padding: 30PX 10PX;
+}
+h1 ,p {
+padding: 15px 0;
+}
+.box{
+    border: 3px solid white;
+    margin: 0 10px;
+    border-radius: 15px;
+}
+i{
+    font-size: 50px;
+}
